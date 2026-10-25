@@ -1,8 +1,9 @@
+
 # 🐧💃 Penguin Mascot Robot
 
 A penguin mascot for our family business that greets customers, talks, and dances.
 
-<!-- drag and drop your demo video here -->
+<img width="1080" height="1096" alt="1000400101" src="https://github.com/user-attachments/assets/2dcb5601-47fb-4e87-9b6e-4df20e6c21b7" />
 
 ## What it does
 - **Notices people.** Wave your hand close to it, or walk past, and it reacts
